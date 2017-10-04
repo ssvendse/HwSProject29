@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:/Users/skylersvendsen/Desktop/Xcode/HackingWithSwift/HwSProject29/HwSProject29/assets.atlas"
+      name = "assets.atlas">
+      <FileRef
+         location = "group:player2Throw.png">
+      </FileRef>
+      <FileRef
+         location = "group:spark.png">
+      </FileRef>
+      <FileRef
+         location = "group:player@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:player1Throw@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:banana@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:player1Throw.png">
+      </FileRef>
+      <FileRef
+         location = "group:banana.png">
+      </FileRef>
+      <FileRef
+         location = "group:player.png">
+      </FileRef>
+      <FileRef
+         location = "group:player2Throw@2x.png">
+      </FileRef>
+   </Group>
    <FileRef
-      location = "self:HwSProject29.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
